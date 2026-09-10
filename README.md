@@ -8,9 +8,9 @@
 
 <p align="left">
 
-<a href="https://my-portfolio-theta-nine-88.vercel.app/" target="_blank">
+<!-- <a href="https://my-portfolio-theta-nine-88.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://github.com/" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -150,7 +150,7 @@ I'm currently focused on becoming stronger at **backend development** while cont
 
 ## ☕ A Little About Me
 
-* ☕ Coffee + Code = Good combination
+* ☕ Milk + Code = Good combination
 * 🎧 Coding with music helps me focus
 * 🧩 I enjoy solving programming problems
 * 🚀 I like learning new technologies
@@ -171,13 +171,6 @@ I'm currently focused on becoming stronger at **backend development** while cont
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 ---
 
