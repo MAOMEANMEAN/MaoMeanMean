@@ -157,7 +157,7 @@ I'm currently focused on becoming stronger at **backend development** while cont
 * 💡 I enjoy turning ideas into real projects
 * 📖 I believe every project is an opportunity to learn something new
 
----
+<!-- ---
 
 ## 📈 GitHub Activity
 
@@ -169,10 +169,6 @@ I'm currently focused on becoming stronger at **backend development** while cont
 
 </div>
 
----
-
-
----
 
 ## 📫 Connect With Me
 
@@ -188,7 +184,7 @@ I'm currently focused on becoming stronger at **backend development** while cont
 
 </p>
 
----
+--- -->
 
 <div align="center">
 
