@@ -148,6 +148,20 @@ I'm currently focused on becoming stronger at **backend development** while cont
 
 ---
 
+---
+
+## ✨ GitHub Contribution
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="file:///C:/Users/Lenovo/Downloads/github-user-contribution%20(1).svg">
+      <source media="(prefers-color-scheme: light)" srcset="file:///C:/Users/Lenovo/Downloads/github-user-contribution%20(1).svg">
+      <img alt="github contribution grid snake animation" src="https://github.com/fluffyfe457-blip/SnakeContributte/blob/main/github-user-contribution%20(1).svg">
+</picture>
+</div>
+
+---
+
 ## ☕ A Little About Me
 
 * ☕ Milk + Code = Good combination
