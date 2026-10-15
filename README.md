@@ -49,13 +49,6 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring" />
 
-* REST API
-* Authentication & Authorization
-* CRUD Operations
-* PostgreSQL
-* Row Level Security (RLS)
-* API Integration
-* JSON
 
 ### 🎨 Frontend
 
