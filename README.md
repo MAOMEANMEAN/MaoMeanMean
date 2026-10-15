@@ -47,7 +47,7 @@
 
 ### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
 
 * REST API
 * Authentication & Authorization
@@ -59,7 +59,7 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 
 ### 📱 Mobile
 
@@ -67,11 +67,11 @@
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,docker,linux,powershell" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,docker,linux" />
 
 ---
 
