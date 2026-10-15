@@ -24,9 +24,9 @@
 
 💻 I'm a **Computer Science developer** passionate about building useful and reliable software.
 
-🚀 Currently working and learning in **Backend Development**, with a strong interest in building APIs, databases, authentication, and scalable systems.
+<!-- 🚀 Currently working and learning in **Backend Development**, with a strong interest in building APIs, databases, authentication, and scalable systems.
 
-🌱 Currently learning and improving my skills in **Supabase, PostgreSQL, Node.js, REST APIs, TypeScript, and Full-Stack Development**.
+🌱 Currently learning and improving my skills in **Supabase, PostgreSQL, Node.js, REST APIs, TypeScript, and Full-Stack Development**. -->
 
 🧩 I enjoy solving problems, understanding how systems work, and turning ideas into real applications.
 
@@ -35,6 +35,7 @@
 📚 Always learning. Always building. Always improving.
 
 > **"Don't just write code. Understand what you're building."**
+> **"Jesus is my Savior"**
 
 ---
 
@@ -113,7 +114,7 @@ A C++ CLI application designed to manage and generate student score information.
 * 💾 Backup system
 * 📁 Excel data import/export
 
----
+<!-- ---
 
 ## 🌱 Currently Learning
 
@@ -133,7 +134,7 @@ Full-Stack Architecture
 
 I'm currently focused on becoming stronger at **backend development** while continuing to improve my frontend and full-stack skills.
 
----
+--- -->
 
 ## 🎯 My Developer Goals
 
